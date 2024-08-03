@@ -1,10 +1,10 @@
-My name is Muhammad Abdullah, a twenty-year-old boy living in Sahiwal, Pakistan.
-My father is Muhammad Imran, is an Army officer who dedicated his life to protect the nation.
-I am the eldest of Four, blessed with three loving brothers.
-I got my primary education from my village. 
-I have done my matriculation and got 97% marks.
-I have done my intermediate (FSC Pre medical) form Pubnjab group of colleges, Sahiwal and got 75% marks. 
-Now, Currently i'm Studying in University of Sahiwal doing Bachelors Of Computer Science. And also i'm a student of PIAIC Programme in Applied Generative AI Cloud native development.
-I'm Passionate to become a Data Scientist, AL/ML Engineer and have a great interest in Programming Using Python and C++.
-Also have a intermediate knowledge about HTML, CSS, Javascript. 
-I Like Book reading and exploring Nature. My favorite Writer is Dr. Tahir ul Qadri. 
+My name is Muhammad Abdullah, a twenty year old boy living in Sahiwal, Pakistan.
+  My father Mohammad Imran is an army officer who dedicated his life to protect the nation.
+  I am the eldest of four, blessed with three lovely brothers.
+  I got my primary education from my village. 
+  I have done matriculation and got 97% marks.
+  I have done my Intermediate (FSC Pre Medical) from Punjab Group of Colleges, Sahiwal and got 75% marks. 
+  Now, I am currently doing Bachelors in Computer Science at Sahiwal University.   And I am also a student of PIAIC program in Applied Generative AI Cloud Native Development.
+  I am passionate about becoming a Data Scientist, AL/ML Engineer and very interested in programming using Python and C++.
+  Also have intermediate knowledge of HTML, CSS, JavaScript. 
+  I love reading books and exploring nature.   My favorite writer is Dr. Tahir-ul-Qadri.
